@@ -1,0 +1,6 @@
+{
+  "name": "Hope Family Clinic",
+  "description": "Premier family healthcare clinic led by Dr. Chetan Kumar (MBBS DOW, RMP). Real-time patient queue token system, instant appointments, and specialized medical care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
